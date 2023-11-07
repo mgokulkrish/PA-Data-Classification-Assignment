@@ -148,7 +148,7 @@ Overall Workflow:
 	Gradient Boosted Trees.number_of_bins	= 64
 	```
 
-grid representation of tuning done for gradient boost.
+grid representation of tuning done for gradient boost.  
 ![grid-search](./images/gd_boost_grid_tuning.png)
 ## Step 6 - Results:
    
