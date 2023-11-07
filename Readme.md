@@ -150,6 +150,9 @@ Overall Workflow:
 
 grid representation of tuning done for gradient boost.  
 ![grid-search](./images/gd_boost_grid_tuning.png)
+
+Overall tuning worfklow using optimize parameter Operator:  
+![tuning-worfklow](./images/tuning_workflow.png)
 ## Step 6 - Results:
    
 | Models   | Accuracy   | Precision  | Recall |
